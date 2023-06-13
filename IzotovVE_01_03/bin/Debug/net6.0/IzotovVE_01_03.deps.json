@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IzotovVE_01_03/1.0.0": {
+        "runtime": {
+          "IzotovVE_01_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IzotovVE_01_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
